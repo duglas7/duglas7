@@ -3,7 +3,6 @@
 ### Mi nombre es Duglas Medina
 
 - Desarrollador Web Front-End y entusiasta de la tecnología.
-- 🌱 Actualmente culmine un Bootcamp Full-Stack en 4GeeksAcademy Chile.
 - Contactame:
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/duglas-medina/)](https://www.linkedin.com/in/duglas-medina/)
 - [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:duglasmedina@gmail.com)](mailto:duglasmedina@gmail.com)
