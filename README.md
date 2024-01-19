@@ -4,7 +4,7 @@
 
 - Desarrollador Web Front-End y entusiasta de la tecnología.
 - Contactame:
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/duglas-medina/)](https://www.linkedin.com/in/duglas-medina/){target="_blank"}
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/duglas-medina/)](https://www.linkedin.com/in/duglas-medina/)
 - [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:duglasmedina@gmail.com)](mailto:duglasmedina@gmail.com)
 - [![Mi CV](https://img.shields.io/badge/Mi_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&link=https://drive.google.com/file/d/1B5w2fuRC_KxjcEnLxi3oo_aRio9aA9B_/view?usp=sharing)](https://drive.google.com/file/d/1B5w2fuRC_KxjcEnLxi3oo_aRio9aA9B_/view?usp=sharing)
 
